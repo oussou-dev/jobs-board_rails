@@ -33,4 +33,4 @@ week 7 - mackenziechild - 12in12 - challenge
 ##### ScreenShot Jobs Board
 
 * Index Page  :  
-![index_page](https://github.com/oussou-dev/pin-board_rails/blob/master/screenshot-1.png)
+![index_page](https://github.com/oussou-dev/jobs-board_rails/blob/master/screenshot-1.png)
