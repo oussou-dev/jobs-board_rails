@@ -17,7 +17,7 @@ week 7 - mackenziechild - 12in12 - challenge
 
 ##### Try Jobs Board
 
-* Online  :  [hiptime-app](https://jobs-board.herokuapp.com)    
+* Online  :  [jobs-board-app](https://jobs-board-app.herokuapp.com)    
 
 * Locally :
     - Clone this repositoy on your desktop
