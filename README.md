@@ -1,7 +1,7 @@
 ### Jobs Board
 
 ~~~
-week 7 - mackenziechild - 12in12 - challenge
+week 7 - 12in12 - challenge
 ~~~
 
 <br/>
